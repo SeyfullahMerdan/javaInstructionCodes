@@ -25,5 +25,4 @@ public class Isci extends Muhasebe {
 		System.out.println(isci1.isim + "'nin maaþý: " + isci1.maas);
 
 	}
-
 }
