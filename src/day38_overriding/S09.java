@@ -4,8 +4,9 @@ public class S09 {
 
 	public static void main(String[] args) {
 		Computer mouse = new Laptop();
-		System.out.println(mouse.getValue(100, 200));
-
+		System.out.println(mouse.getValue(100, 200));  // objeyi oluþturmak için cons. oldugu classa Laptopa gidecek...
+                             // method çagýrýnca kendi classýndan almaya çalýþacak ama bakacak ki const. child classtan 
+		               // ve override edilmiþ. Hemen alt classa bakcak ve ordakini getirecek.
 	}
 }
 	class NoteBook{

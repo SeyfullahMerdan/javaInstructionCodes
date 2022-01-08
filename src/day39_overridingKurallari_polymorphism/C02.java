@@ -28,8 +28,6 @@ public class C02 extends C01 {
 	   // dolayýsý ile signature ayný olmasýna ragmen bu ikisini farklý method olarak görür
 	// çalýþýyor fakat parent classdkini getiriyor. Normalde child classsý getirmeliydi.
 	
-	//asdasda
-	
 	
 	}
 
@@ -37,7 +35,6 @@ public class C02 extends C01 {
 	private void privateMethod() {
 		
 		System.out.println("Child class private method");
-		
 	}
 	
 	
