@@ -16,7 +16,7 @@ public class C02_Delete_CharAt {
 		sb.delete(11, 13); // ilk index inclusive, ikinci index exclusive olduðundan
 		System.out.println(sb); // java candýrn
 
-		sb.delete(11, sb.length());
+		sb.delete(11, sb.length());//java candýr
 		System.out.println(sb);
 
 		sb.delete(5, 20); // 5'den itibaren siliyor. Exclusive kýsmýnda indexi -oldugundan fazla yazmama ragmen- sorun yapmýyor.
