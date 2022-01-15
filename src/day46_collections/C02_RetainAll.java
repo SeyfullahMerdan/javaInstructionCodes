@@ -30,14 +30,6 @@ public class C02_RetainAll {
 		System.out.println(lhs2);  // [Ali, Mehmet Ali]
 		
 		// Methodlar genel itibari ile digerleri ile hep ayný.
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }

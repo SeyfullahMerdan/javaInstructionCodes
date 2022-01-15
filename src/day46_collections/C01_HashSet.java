@@ -42,14 +42,7 @@ public class C01_HashSet {
         System.out.println(benzersiz.equals(arrT)); // false döndürdü.
         System.out.println(benzersiz.isEmpty()); // false
         System.out.println(benzersiz.remove(5)); // true
-        System.out.println(benzersiz); // 1, 3, 4, 6, 7, 8]
-
-        
-        
-        
-        
-        
-        
+        System.out.println(benzersiz); // 1, 3, 4, 6, 7, 8]  
 		
 	}
 

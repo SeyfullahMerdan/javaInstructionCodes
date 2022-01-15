@@ -29,8 +29,5 @@ public class C03_Queue {
 		// eleman yoksa null der. exception atmaz ama remove methodu ex. atar
 		kuyruk.add("esra");
 		System.out.println(kuyruk); // [esra, null, esra]  unique olma durumu yok...
-		
-		
 	}
-
 }

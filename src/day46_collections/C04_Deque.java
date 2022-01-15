@@ -7,7 +7,6 @@ public class C04_Deque {
 
 	public static void main(String[] args) {
 		
-		
         Deque <String> ciftBasli = new LinkedList<>();
 		
         ciftBasli.add("seyfullah");
@@ -30,11 +29,6 @@ public class C04_Deque {
 		
 		ciftBasli.removeLastOccurrence("furkan");
 		System.out.println(ciftBasli); // [Merdan, esra, null] belirtilen elemanýn son kullanýlaný siliyor
-		
-
-		
-		
-		
+	
 	}
-
 }
